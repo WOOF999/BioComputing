@@ -1,0 +1,9 @@
+DNA sequence into an RNA sequence
+ACCTG
+G
+A CGCT  AGCTACGT
+GG  G GG
+
+
+    
+             

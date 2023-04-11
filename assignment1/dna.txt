@@ -1,0 +1,8 @@
+DNA sequence into an RNA sequence
+AGCT
+    agt
+                      
+  g        t  c
+  gggggttttttagatagatasgat
+
+             

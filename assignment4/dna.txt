@@ -1,6 +1,6 @@
 >first
-ATGTTAT
+Accga   tcg
 >second
-ATCGTAC
+g  atcgtagct
 >third
 asldjkf;lsajdfas;ldkfj

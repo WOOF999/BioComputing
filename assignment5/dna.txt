@@ -1,0 +1,11 @@
+>CAB4059600.1 Zinc finger protein 700,Zinc finger protein with KRAB and SCAN domains 3,Zinc finger protein 846,Zinc finger protein 792,Zinc finger protein 84,Zinc finger protein 32,Zinc finger and BTB domain-containing protein 49,Zinc finger protein 613,Zinc finger protein 684,Zinc finger protein 235,Zinc finger protein interacting with ribonucleoprotein K,Zinc finger protein 732,Zinc finger protein 697,Zinc finger protein 677,Zinc finger protein 670,Zinc finger protein 880,Zinc finger protein 264,Zinc finger protein 79
+METRVLIPSDLILRVSPSKDCSSPLVARFLEVGVSVVSKTTLPQGTILPLGSVRVGRLEVYSSLSHTDSR
+HGHVCIDEVAEGITGHRIRKCNWVRFASVHPKAYNVRSLKPGVFEITECIYPHTELILNEAPPCLHHSES
+EIEAIQRILNESALDLSTPLLEFEIPSDDIIEDRKSVISDSGISSSEENETNTSPLAPSHPLPKKANSKK
+KMLPCDYCGKCFDRPSLLNRHLRTHTGERPHVCDVCDKGFSTSSSLNTHRRIHSGEKPHECETCGKRFTA
+SSNLYYHRMTHVKEKPHKCELCQKSFPTPGDLKSHMYIHNGSWPHRCHICDRGFSKVTNLKNHLFLHTGE
+KPHECPVCGKRFALGCNMKAHLKTHHTK
+>CAG2233117.1 Actin, cytoplasmic type 5,Actin, cytoplasmic A3,Actin, muscle-type,Actin-75,Actin-like protein 53D,Putative actin-24,Actin, non-muscle 6.2,Actin-like protein 9,Actin-71,Actin-4,Actin, nonmuscle,Actin, alpha skeletal muscle 2,Actin, cytoskeletal 2A,Actin B,Actin-11,Actin-15A,Actin, cytoplasmic type 8,Actin, cytoplasmic 2,Actin, cytoplasmic 1,Actin-like protein 7B,Actin-related protein T3,Actin, alpha skeletal muscle B,Actin-85C,Actin, spherule isoform,Actin-57B,Actin, acrosomal process isoform,Actin, muscle
+MCDDDVAALVIDNGSGMCKAGFAGDDVPRAVFPSIVGRLGVMVGMGQKDSYVGDEAQSKRGILTLKYPIE
+HGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNSPAMYVAIQAVLSL
+YASGRTIGIVLDSGDGVTHTVPIYEG

@@ -19,8 +19,9 @@ def read_fasta_file(filename):
             if line.startswith('>'):
                 comment_cnt+=1
                 if seq != '':
-                    is_DNA_seq(seq)
-                    sequences.append(seq.upper())
+                    whitespace_tmp=seq.replace(' ',"").upper()
+                    is_DNA_seq(whitespace_tmp)
+                    sequences.append(whitespace_tmp)
                     seq = ''
                 if len(sequences) == 2:
                     break
@@ -30,8 +31,9 @@ def read_fasta_file(filename):
             else:
                 seq += line.strip()
         if seq != '':
-            is_DNA_seq(seq)
-            sequences.append(seq.upper())
+            whitespace_tmp=seq.replace(' ',"").upper()
+            is_DNA_seq(whitespace_tmp)
+            sequences.append(whitespace_tmp)
     
     # check exception
     if len(sequences) == 0:
